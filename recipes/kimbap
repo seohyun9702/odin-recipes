@@ -1,0 +1,22 @@
+<h1>kimbap</h1>
+<p>this is what kimbap should look like</p>
+<img src="kimbap.jpg" width="300">
+<p>Kimbap is a cool food. I recommend anyone to make it.</p>
+<p>You need following ingredients:</p>
+<ul>
+    <li>rice</li>
+    <li>seaweed</li>
+    <li>ham</li>
+    <li>pickled radish</li>
+    <li>spinach</li>
+    <li>carrots</li>
+    <li>sesame oil</li>
+</ul>
+<p>Follow these steps:</p>
+<ol>
+    <li>Put handful of cooked rice on top of the seaweed and spread it across.</li>
+    <li>Add all ingredients except for sesame oil at the bottom of the seaweed.</li>
+    <li>Roll the seaweed into a cylinder.</li>
+    <li>Brush sesame oil on top of the kimbap.</li>
+    <li>Cut it up and serve.</li>
+</ol>
